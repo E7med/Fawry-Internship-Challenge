@@ -3,6 +3,7 @@
 
 A simple Java-based e-commerce system designed for intermediate students.  
 Demonstrates **core OOP concepts** like abstraction, inheritance, and interfaces, while simulating real-world operations like adding products to a cart, validating stock and expiry, and handling shipping and checkout.
+![image](https://github.com/user-attachments/assets/b71a0cda-bede-4496-a3a8-2a7d43e3249f)
 
 ---
 
